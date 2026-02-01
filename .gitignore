@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build outputs (Opsional: Kalau mau repo bersih murni source code, un-comment baris bawah)
+# build/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
